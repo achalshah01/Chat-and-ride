@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="api_key">AIzaSyCBIdjxTUh5TIC01R-c1RTRYx9YdOfPLeY</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiYXlhcHBzIiwiYSI6ImNrMGxlbTUzMjB2aDMzcHFzMXV3Z240dHcifQ.pINy19qAZreFLA5OrliZ6g</string>
+    <string name="channel_description">Notification decription</string>
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "339465377989",
+    "firebase_url": "https://amad-inclass02.firebaseio.com",
+    "project_id": "amad-inclass02",
+    "storage_bucket": "amad-inclass02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339465377989:android:6a057ecc6902d9fdd9f8ac",
+        "android_client_info": {
+          "package_name": "com.vbanjan.inclassassignment02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339465377989-f7rvr928cb8t2c3teq7nidp9ngbqiqhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGg_U0eqiJCL9ZvUFtcSCWt6uufsvMQUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339465377989-f7rvr928cb8t2c3teq7nidp9ngbqiqhf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
